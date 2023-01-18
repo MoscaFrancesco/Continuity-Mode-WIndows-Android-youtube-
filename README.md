@@ -33,3 +33,7 @@ How to Make the Program Run at Startup:
 
 How to Close the program:
 -----------------------------------------------------------------------------
+you need to search for Python (Windowed) on task manager
+
+![Screenshot (54)](https://user-images.githubusercontent.com/87772044/213166003-5bd7584a-4b13-4fd1-b7d6-4fb131df5d46.png)
+
