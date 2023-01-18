@@ -13,6 +13,7 @@ Requirements:
 - Python 3.x
 - pip install webbrowser  
 - pip install time
+- pip install infi.systray
 - pip install re
 - pip install pyperclip
 
